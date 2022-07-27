@@ -21,7 +21,7 @@
       "issuetype-field": "Bug",
       "name": "BUG TEMPLATE",
       "projects-field": "",
-      "text": "{panel:title=Summary|titleBGColor=#a3dbf7|bgColor=#f0f0f0}\nEnter summary of the problem here. \n{panel}\n{panel:title=Additional Details|titleBGColor=#a3dbf7|bgColor=#f0f0f0}\nEnter any other details such as examples, links to requirements, etc. Any criteria that might help with fixing the problem. Attach screenshots if possible. More detail is better.\n\n{panel}\n{panel:title=Workaround|titleBGColor=#a3dbf7|bgColor=#f0f0f0}\nIf there is a way to work around the problem, place that information here.\n{panel}"
+      "text": "{panel:title=Summary|titleBGColor=#a3dbf7|bgColor=#f0f0f0}\n... \n{panel}\n{panel:title=Additional Details|titleBGColor=#a3dbf7|bgColor=#f0f0f0}\n... \n\n{panel}\n{panel:title=Acceptance Criteria|titleBGColor=#a3dbf7|bgColor=#f0f0f0}\n * ...\n{panel}"
     },
     {
       "issuetype-field": "Request",
@@ -51,7 +51,7 @@
       "issuetype-field": "Improvement",
       "name": "IMPROVEMENT TEMPLATE",
       "projects-field": "",
-      "text": "*Summary*\n<TI>Enter a summary of the Improvement here.</TI>\n\n*Details*\n<TI>Enter any details, clarifications, answers to questions, or points about implementation here.</TI>\n\n*Additional Information*\n<TI>Enter any background or references such as Stack Overflow, MSDN, blogs, etc. that may help with developing the feature.</TI>"
+      "text": "*Summary*\n....\n\n*Details*\n ... \n\n*Additional Information*\n ..."
     },
     {
       "issuetype-field": "Epic",
